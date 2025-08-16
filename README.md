@@ -93,10 +93,6 @@ npm run lint
 2) Make updates and ensure lint passes (npm run lint).
 3) Open a pull request describing your changes.
 
-## License
-
-No license has been declared for this repository. Consider adding a LICENSE file to define how others can use this project.
-
 ## Acknowledgements
 
 - React and Vite team for the development tooling.
